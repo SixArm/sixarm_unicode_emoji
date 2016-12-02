@@ -2,6 +2,8 @@
 
 Examples of Unicode symbols that can be emoji.
 
+Note the names are our preferred names; they are not always the official Unicode names, nor the emoji shortcut names.
+
 
 ## Transport
 
